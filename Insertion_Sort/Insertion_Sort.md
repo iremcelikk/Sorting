@@ -6,31 +6,31 @@
 ### pre-processing
 [22,27] [16,2,18,6]
 ### post-processing
-**[22,27]** [16,2,18,6]
+[22,27] [16,2,18,6]
 ---
 ### Step 2
 ### pre-processing
 [22,27,16] [2,18,6]
 ### post-processing
-**[16,22,27]** [2,18,6]
+[16,22,27] [2,18,6]
 ---
 ### Step 3
 ### pre-processing
 [16,22,27,2] [18,6]
 ### post-processing
-**[2,16,22,27]** [18,6]
+[2,16,22,27] [18,6]
 ---
 ### Step 4
 ### pre-processing
 [2,16,22,27,18] [6]
 ### post-processing
-**[2,16,18,22,27]** [6]
+[2,16,18,22,27] [6]
 ---
 ### Step 5
 ### pre-processing
 [2,16,18,22,27,6] []
 ### post-processing
-**[2,6,16,18,22,27]** []
+[2,6,16,18,22,2 []
 
 ## **2-Big O notation**
 O(n²)
@@ -50,22 +50,22 @@ The answer is average case. Because number 18 is in the middle of the array.
 ### pre-processing
 [7,3] [5,8,2,9,4,15,6]
 ### post-processing
-**[3,7]** [5,8,2,9,4,15,6]
+[3,7] [5,8,2,9,4,15,6]
 ---
 ### Step 2
 ### pre-processing
 [3,7,5] [8,2,9,4,15,6]
 ### post-processing
-**[3,5,7]** [8,2,9,4,15,6]
+[3,5,7] [8,2,9,4,15,6]
 ---
 ### Step 3
 ### pre-processing
 [3,5,7,8] [2,9,4,15,6]
 ### post-processing
-**[3,5,7,8]** [2,9,4,15,6]
+[3,5,7,8] [2,9,4,15,6]
 ---
 ### Step 4
 ### pre-processing
 [3,5,7,8,2] [9,4,15,6]
 ### post-processing
-**[2,3,5,7,8]** [9,4,15,6]
+[2,3,5,7,8] [9,4,15,6]
