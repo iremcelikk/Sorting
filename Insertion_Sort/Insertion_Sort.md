@@ -30,7 +30,7 @@
 ### pre-processing
 [2,16,18,22,27,6] []
 ### post-processing
-[2,6,16,18,22,2 []
+[2,6,16,18,22,2] []
 
 ## **2-Big O notation**
 O(n²)
